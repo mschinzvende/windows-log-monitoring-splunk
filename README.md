@@ -18,8 +18,7 @@ Here are some example visualizations included in this project:
 ### ✅ Login Activity Panel
 Shows successful and failed logon attempts per user.
 
-(https://github.com/mschinzvende/windows-log-monitoring-splunk/blob/main/screenshots/Failed%20Logins.JPG)
-
+![Login Report](screenshots/Failed%20Logins.JPG)
 ### ⚠️ PowerShell Monitoring
 Detects suspicious PowerShell usage like base64-encoded payloads.
 
