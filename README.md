@@ -108,7 +108,9 @@ index=main sourcetype="WinEventLog:Security" EventCode=4672
 
 index=main sourcetype="XmlWinEventLog:Microsoft-Windows-PowerShell/Operational" EventCode=4104
 | table _time, user, Message
----
+
+```
+
 📌 Author
 Munyaradzi Sydney Chinzvende
 Empowering African SMEs with Secure, Scalable Software | .NET & Azure Developer | Cybersecurity Advocate | (https://www.linkedin.com/in/chinzvendesm/)
@@ -120,6 +122,5 @@ Endpoint monitoring
 SIEM integration
 Log correlation
 Visualization using Splunk
-
 
 Feel free to fork or use it as a base for your own monitoring setup.
