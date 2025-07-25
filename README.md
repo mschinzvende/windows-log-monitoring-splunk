@@ -112,19 +112,20 @@ index=main sourcetype="XmlWinEventLog:Microsoft-Windows-PowerShell/Operational" 
 ```
 
 ## 👤 Author
--Munyaradzi Sydney Chinzvende
--Empowering African SMEs with Secure, Scalable Software | .NET & Azure Developer | Cybersecurity Advocate
--📧 Email: sydney@eksanisystems.co.zw
--💼 LinkedIn: https://www.linkedin.com/in/chinzvendesm/
--🐙 GitHub: https://github.com/yourusername
+- Munyaradzi Sydney Chinzvende
+- Empowering African SMEs with Secure, Scalable Software | .NET & Azure Developer | Cybersecurity Advocate
+- 📧 Email: sydney@eksanisystems.co.zw
+- 💼 LinkedIn: https://www.linkedin.com/in/chinzvendesm/
+- 🐙 GitHub: https://github.com/mschinzvende
 
+---
 
-##⭐ GitHub Repo Purpose
+## ⭐ GitHub Repo Purpose
 This project is part of my cybersecurity portfolio to showcase hands-on skills in:
 
--Endpoint monitoring
--SIEM integration
--Log correlation
--isualization using Splunk
+- Endpoint monitoring
+- SIEM integration
+- Log correlation
+- Visualization using Splunk
 
 Feel free to fork or use it as a base for your own monitoring setup.
