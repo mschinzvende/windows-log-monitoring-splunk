@@ -11,15 +11,26 @@ A real-world cybersecurity and DevOps project that collects and forwards logs fr
 - Centralized monitoring using Splunk Cloud
 - Visualize endpoint activity (logins, privilege escalation,script execution)
 
-## 📊 Sample Dashboards
+## Sample Dashboards
 
 Here are some example visualizations included in this project:
 
-### ✅ Login Activity Panel
-Shows successful and failed logon attempts per user.
+### Login Activity Panel
+Shows failed logon attempts per user.
+![Failed Logins](screenshots/Failed%20Logins.JPG)
 
-![Login Report](screenshots/Failed%20Logins.JPG)
-### ⚠️ PowerShell Monitoring
-Detects suspicious PowerShell usage like base64-encoded payloads.
+Shows successful logins by user
+![Successful Logins](screenshots/Successful%20Logins%20by%20user.JPG)
 
-![PowerShell Panel](images/powershell_dashboard.png)
+### Priviledge Escalation Events
+Detects priveledge escalation events by accounts so that we see if an unathorized account is gainging unathorized access.
+![Priviledge Escalation](screenshots/Priviledge%20Escalation%20Events.JPG)
+
+### Top Event Codes
+Here we have an overview of the most frequently triggered events. This dashboard can help us quickly identify bruteforce attacks or DDoS attack.
+![Top Events](screenshots/Top%20Event%20Codes.JPG)
+
+### Log Search
+This is the Splunk Search and Reporting App which enable us to search for specific events.
+![Top Events](screenshots/LogSearches.JPG)
+
